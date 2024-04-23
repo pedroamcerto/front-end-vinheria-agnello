@@ -6,5 +6,5 @@ O segundo checkpoint da matéria de Front-End Design é realizar a estruturaçã
 
 - João Vitor Boht             | RM 
 - Fabiano Zague               | RM
-- Matheus Gomes Condez        | RM
+- Matheus Gomes Condez        | 556954
 - Pedro Augusto Martins Certo | 556268
